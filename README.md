@@ -18,9 +18,7 @@
 <br />Kincaid, J. P., Aagard, J. A., O’Hara, J. W., &Cottrell, L. K. (1981).Computer readability editing system. IEEE Transactions on Professional Communication, PC-24(1), 38–42.
 3. 表情符號情感 
 <br />Novak, P. K., Smailović, J., Sluban, B., &Mozetič, I. (2015).Sentiment of emojis. PLoS ONE, 10(12), 1–22.
- 
- ## 輸出範例
- 
+
  ##
  - 使用語言：Python3.6
  - 主要套件：tweepy、textblob、regex、emoji、textstat

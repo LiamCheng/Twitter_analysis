@@ -54,7 +54,7 @@ def sentiment_score(text,file):
     text = TextBlob(text)
     sent = text.sentiment.polarity
     subj = text.sentiment.subjectivity
-    file.write("\nSentiment score : %s \nSubjectivity score : %s \n---------\n"%( sent, subj))
+    file.write("\nSentiment score : %f \nSubjectivity score : %s \n---------\n"%( sent, subj))
 
 
 def info(id,time,text,file):

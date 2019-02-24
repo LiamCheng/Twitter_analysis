@@ -1,197 +1,264 @@
-Tweet id : 1098785166011420672 
-Post Time: 2019-02-22 03:22:52 
-Text: Time for Lebron &amp; the Lakers to make their playoff push #LakeShow https://t.co/DawPB6ihdd
-Char count : 81
-Syllabus count : 22 
-Lexicon count : 13 
-Sentence count : 1
-Gunning Fog Index: 17 
-Flesch Reading Ease: 49 
-Flesch-Kincaid Grade: 9
-Emoji counter: 0
-Emoji score: 0
-Sentiment score : 0.0 
-Subjectivity score : 0.0 
----------
-Tweet id : 1099496115928322048 
-Post Time: 2019-02-24 02:27:56 
-Text: Final from NOLA. https://t.co/bjc6YxlMzR
-Char count : 37
-Syllabus count : 9 
-Lexicon count : 4 
-Sentence count : 1
-Gunning Fog Index: 21 
-Flesch Reading Ease: 8 
-Flesch-Kincaid Grade: 13
-Emoji counter: 0
-Emoji score: 0
-Sentiment score : 0.0 
-Subjectivity score : 1.0 
----------
-Tweet id : 1099615213261934593 
-Post Time: 2019-02-24 10:21:11 
-Text: @Lakers @kylekuzma Zoom zoom what. You people no be serious kraa. Ah!
-Char count : 58
-Syllabus count : 17 
-Lexicon count : 12 
+Tweet id : 1099630651899367424 
+Post Time: 2019-02-24 11:22:32 
+Text: Won against the rockets and lost to NOLA right away without AD.. Broooo where is the consistency 🤯😢 https://t.co/ZnvLQQElS5
+Char count : 105
+Syllabus count : 29 
+Lexicon count : 19 
 Sentence count : 2
 Gunning Fog Index: 12 
-Flesch Reading Ease: 82 
-Flesch-Kincaid Grade: 3
+Flesch Reading Ease: 70 
+Flesch-Kincaid Grade: 5
+Emoji counter: 2
+Emoji score: 0.0035
+Sentiment score : 0.285714 
+Subjectivity score : 0.5357142857142857 
+---------
+Tweet id : 1099630543258468352 
+Post Time: 2019-02-24 11:22:06 
+Text: @ronakhegde53
+lakers 2018-2019 Record: 29-30
+Yikes! Currently on a 1 game(s) Losing streak
+Char count : 80
+Syllabus count : 16 
+Lexicon count : 13 
+Sentence count : 2
+Gunning Fog Index: 14 
+Flesch Reading Ease: 98 
+Flesch-Kincaid Grade: 1
 Emoji counter: 0
 Emoji score: 0
-Sentiment score : -0.41666666666666663 
-Subjectivity score : 0.6666666666666666 
+Sentiment score : 0.000000 
+Subjectivity score : 0.4 
 ---------
-Tweet id : 1099496115928322048 
-Post Time: 2019-02-24 02:27:56 
-Text: Final from NOLA. https://t.co/bjc6YxlMzR
-Char count : 37
-Syllabus count : 9 
-Lexicon count : 4 
+Tweet id : 1099630426728132609 
+Post Time: 2019-02-24 11:21:38 
+Text: Adam Silver is going to make sure he Lakers ake the playoffs... standard
+Char count : 60
+Syllabus count : 18 
+Lexicon count : 13 
 Sentence count : 1
-Gunning Fog Index: 21 
-Flesch Reading Ease: 8 
-Flesch-Kincaid Grade: 13
+Gunning Fog Index: 14 
+Flesch Reading Ease: 75 
+Flesch-Kincaid Grade: 6
 Emoji counter: 0
 Emoji score: 0
-Sentiment score : 0.0 
-Subjectivity score : 1.0 
+Sentiment score : 0.250000 
+Subjectivity score : 0.4444444444444444 
 ---------
-Tweet id : 1099512399088967680 
-Post Time: 2019-02-24 03:32:38 
-Text: *Lakers &amp; Kings fighting for playoff spot*
-
-Kings: beat 3rd seed OKC Thunder
-Lakers: lose to 13th seed Pelicans w/o Anthony Davis https://t.co/ZA1SBQM8L3
-Char count : 137
-Syllabus count : 35 
-Lexicon count : 23 
+Tweet id : 1099630380473307137 
+Post Time: 2019-02-24 11:21:27 
+Text: I guess Lakers need Anthony Davis more then pelicans
+Char count : 44
+Syllabus count : 14 
+Lexicon count : 9 
+Sentence count : 1
+Gunning Fog Index: 16 
+Flesch Reading Ease: 62 
+Flesch-Kincaid Grade: 6
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.500000 
+Subjectivity score : 0.5 
+---------
+Tweet id : 1016847605756776448 
+Post Time: 2018-07-11 00:52:15 
+Text: @goldlakerss DLo will be a allstar next season while the Lakers young core will be humiliated and dehumanized by the media.
+Char count : 103
+Syllabus count : 34 
+Lexicon count : 21 
 Sentence count : 1
 Gunning Fog Index: 19 
-Flesch Reading Ease: 56 
+Flesch Reading Ease: 50 
 Flesch-Kincaid Grade: 11
 Emoji counter: 0
 Emoji score: 0
-Sentiment score : 0.0 
-Subjectivity score : 0.0 
+Sentiment score : 0.050000 
+Subjectivity score : 0.2 
 ---------
-Tweet id : 1099516866748239873 
-Post Time: 2019-02-24 03:50:23 
-Text: Suck it Lakers. 
+Tweet id : 1098825762977677313 
+Post Time: 2019-02-22 06:04:11 
+Text: "It's been activated." #LakersWin
 
-We don’t allow loser teams in this family https://t.co/cq1ebINp2q
-Char count : 72
-Syllabus count : 22 
-Lexicon count : 12 
-Sentence count : 1
-Gunning Fog Index: 11 
-Flesch Reading Ease: 42 
-Flesch-Kincaid Grade: 10
-Emoji counter: 0
-Emoji score: 0
-Sentiment score : 0.0 
-Subjectivity score : 0.0 
----------
-Tweet id : 1014836092598652928 
-Post Time: 2018-07-05 11:39:13 
-Text: ⚽Name: Cristiano Ronaldo, 33 Yo
-Prize List: Won Everything with 2 Teams
-Mission for the next 4 Years:
-Win the UCL for a 3rd Team: Juventus
-
-🏀Name: LeBron James, 33 Yo
-Prize List: Won Everything with 2 Teams
-Mission for the next 4 Years:
-Win the NBA Title for a 3rd Team: Lakers https://t.co/f9jU9qjlvS
-Char count : 255
-Syllabus count : 65 
-Lexicon count : 54 
-Sentence count : 1
-Gunning Fog Index: 26 
-Flesch Reading Ease: 50 
-Flesch-Kincaid Grade: 19
-Emoji counter: 2
-Emoji score: 0.127
-Sentiment score : 0.26666666666666666 
-Subjectivity score : 0.13333333333333333 
----------
-Tweet id : 1099615137739075584 
-Post Time: 2019-02-24 10:20:53 
-Text: @kevdoyle91 I love Magic but he's not cutting it, this team was performing better in the final stretch, 24-23 with all that injury and lack of depth after the trade. The trade talks for AD were historically bad. It's like a fan who knows nothing at all is running the Lakers.
-Char count : 225
-Syllabus count : 67 
-Lexicon count : 51 
-Sentence count : 3
-Gunning Fog Index: 11 
-Flesch Reading Ease: 79 
-Flesch-Kincaid Grade: 6
-Emoji counter: 0
-Emoji score: 0
-Sentiment score : 0.18333333333333335 
-Subjectivity score : 0.7777777777777778 
----------
-Tweet id : 1099615136325595143 
-Post Time: 2019-02-24 10:20:53 
-Text: @NBA @Lakers @KingJames to @warriors for vet minimum next year
-Char count : 53
-Syllabus count : 15 
-Lexicon count : 10 
-Sentence count : 1
-Gunning Fog Index: 20 
-Flesch Reading Ease: 69 
-Flesch-Kincaid Grade: 6
-Emoji counter: 0
-Emoji score: 0
-Sentiment score : 0.0 
-Subjectivity score : 0.0 
----------
-Tweet id : 1099474593960476672 
-Post Time: 2019-02-24 01:02:25 
-Text: Rondo for LeBron!
-
-#LakeShow (📺: @SpectrumSN) https://t.co/wTPfq7ZmM8
-Char count : 64
-Syllabus count : 13 
-Lexicon count : 7 
-Sentence count : 1
-Gunning Fog Index: 25 
-Flesch Reading Ease: 38 
-Flesch-Kincaid Grade: 9
-Emoji counter: 1
-Emoji score: 0.375
-Sentiment score : 0.0 
-Subjectivity score : 0.0 
----------
-Tweet id : 1099592578767278081 
-Post Time: 2019-02-24 08:51:14 
-Text: Lakers let Julius Randle, Brook Lopez, Zubac, and Thomas Bryant walk and what’s left is the most washed big man rotation in the NBA
-Char count : 108
-Syllabus count : 28 
-Lexicon count : 24 
-Sentence count : 1
-Gunning Fog Index: 14 
-Flesch Reading Ease: 80 
-Flesch-Kincaid Grade: 7
-Emoji counter: 0
-Emoji score: 0
-Sentiment score : 0.16666666666666666 
-Subjectivity score : 0.19999999999999998 
----------
-Tweet id : 1099489661905334272 
-Post Time: 2019-02-24 02:02:17 
-Text: Lakers fans right now. https://t.co/BVPyDjtebY
-Char count : 42
-Syllabus count : 12 
-Lexicon count : 5 
+@KingJames: 29 pts, 11 reb, 6 ast
+@B_Ingram13: 27 pts, 13 reb https://t.co/QbXITrg2hx
+Char count : 106
+Syllabus count : 27 
+Lexicon count : 17 
 Sentence count : 1
 Gunning Fog Index: 18 
-Flesch Reading Ease: -1 
-Flesch-Kincaid Grade: 14
+Flesch Reading Ease: 54 
+Flesch-Kincaid Grade: 9
 Emoji counter: 0
 Emoji score: 0
-Sentiment score : 0.2857142857142857 
-Subjectivity score : 0.5357142857142857 
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
+---------
+Tweet id : 1099499001655767045 
+Post Time: 2019-02-24 02:39:24 
+Text: Check out the photos from tonight's WIN! 
+
+📸: https://t.co/Mk0ln9xzav https://t.co/vaxJ2euyYy
+Char count : 84
+Syllabus count : 18 
+Lexicon count : 10 
+Sentence count : 1
+Gunning Fog Index: 12 
+Flesch Reading Ease: 44 
+Flesch-Kincaid Grade: 9
+Emoji counter: 1
+Emoji score: 0.0
+Sentiment score : 1.000000 
+Subjectivity score : 0.4 
+---------
+Tweet id : 1099516325007740928 
+Post Time: 2019-02-24 03:48:14 
+Text: nobody on the Lakers care about hoopin anymore I swear..
+
+LeBron filming movies &amp; TV shows
+Kuzma a full-time IG model now
+Lonzo and Lance rapping in the studio
+Josh Hart dedicating his life to Fortnite
+Char count : 174
+Syllabus count : 47 
+Lexicon count : 36 
+Sentence count : 1
+Gunning Fog Index: 26 
+Flesch Reading Ease: 60 
+Flesch-Kincaid Grade: 13
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
+---------
+Tweet id : 1099516325007740928 
+Post Time: 2019-02-24 03:48:14 
+Text: nobody on the Lakers care about hoopin anymore I swear..
+
+LeBron filming movies &amp; TV shows
+Kuzma a full-time IG model now
+Lonzo and Lance rapping in the studio
+Josh Hart dedicating his life to Fortnite
+Char count : 174
+Syllabus count : 47 
+Lexicon count : 36 
+Sentence count : 1
+Gunning Fog Index: 26 
+Flesch Reading Ease: 60 
+Flesch-Kincaid Grade: 13
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
+---------
+Tweet id : 1099630114483130368 
+Post Time: 2019-02-24 11:20:24 
+Text: #Lakers almost suck. No? #NBA
+Char count : 25
+Syllabus count : 7 
+Lexicon count : 5 
+Sentence count : 1
+Gunning Fog Index: 10 
+Flesch Reading Ease: 83 
+Flesch-Kincaid Grade: 2
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
+---------
+Tweet id : 1099489075025694720 
+Post Time: 2019-02-24 01:59:57 
+Text: g league squad —&gt; @Lakers
+Char count : 24
+Syllabus count : 6 
+Lexicon count : 5 
+Sentence count : 1
+Gunning Fog Index: 10 
+Flesch Reading Ease: 100 
+Flesch-Kincaid Grade: 0
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
+---------
+Tweet id : 1099516325007740928 
+Post Time: 2019-02-24 03:48:14 
+Text: nobody on the Lakers care about hoopin anymore I swear..
+
+LeBron filming movies &amp; TV shows
+Kuzma a full-time IG model now
+Lonzo and Lance rapping in the studio
+Josh Hart dedicating his life to Fortnite
+Char count : 174
+Syllabus count : 47 
+Lexicon count : 36 
+Sentence count : 1
+Gunning Fog Index: 26 
+Flesch Reading Ease: 60 
+Flesch-Kincaid Grade: 13
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
+---------
+Tweet id : 1099630033314942977 
+Post Time: 2019-02-24 11:20:04 
+Text: @Signor_Kafui_i @Lakers @kylekuzma You are pained my brother
+Char count : 53
+Syllabus count : 13 
+Lexicon count : 8 
+Sentence count : 1
+Gunning Fog Index: 18 
+Flesch Reading Ease: 63 
+Flesch-Kincaid Grade: 6
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
+---------
+Tweet id : 1099571227377782785 
+Post Time: 2019-02-24 07:26:24 
+Text: LeBron James Calls Out Lakers' Lack Of Experience And Urgency https://t.co/GQCIw0wT0d
+Char count : 75
+Syllabus count : 21 
+Lexicon count : 11 
+Sentence count : 1
+Gunning Fog Index: 22 
+Flesch Reading Ease: 34 
+Flesch-Kincaid Grade: 11
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
+---------
+Tweet id : 1099496115928322048 
+Post Time: 2019-02-24 02:27:56 
+Text: Final from NOLA. https://t.co/bjc6YxlMzR
+Char count : 37
+Syllabus count : 9 
+Lexicon count : 4 
+Sentence count : 1
+Gunning Fog Index: 21 
+Flesch Reading Ease: 8 
+Flesch-Kincaid Grade: 13
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 1.0 
+---------
+Tweet id : 1099629909838843904 
+Post Time: 2019-02-24 11:19:35 
+Text: NBA 2018/19, Recap 23 Febbraio: Bucks avanti tutta. Ko Warriors, Thunder, Celtics, Lakers e Sixers - https://t.co/d0Mgl02uMF https://t.co/0Nrxyq7LkK
+Char count : 131
+Syllabus count : 31 
+Lexicon count : 17 
+Sentence count : 2
+Gunning Fog Index: 22 
+Flesch Reading Ease: 45 
+Flesch-Kincaid Grade: 9
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
 ---------
 Tweet id : 1099426840278679552 
 Post Time: 2019-02-23 21:52:39 
@@ -205,121 +272,373 @@ Flesch Reading Ease: 33
 Flesch-Kincaid Grade: 9
 Emoji counter: 1
 Emoji score: 0.111
-Sentiment score : 0.13636363636363635 
+Sentiment score : 0.136364 
 Subjectivity score : 0.45454545454545453 
 ---------
-Tweet id : 1099528932376879104 
-Post Time: 2019-02-24 04:38:20 
-Text: DLo continues to make Magic &amp; the Lakers look dumb AF lol
-Char count : 50
-Syllabus count : 16 
-Lexicon count : 12 
-Sentence count : 1
-Gunning Fog Index: 11 
-Flesch Reading Ease: 84 
-Flesch-Kincaid Grade: 4
-Emoji counter: 0
-Emoji score: 0
-Sentiment score : 0.30833333333333335 
-Subjectivity score : 0.7333333333333334 
----------
-Tweet id : 1099521312870023168 
-Post Time: 2019-02-24 04:08:03 
-Text: if the lakers make the playoffs. i’ll give 10 people who retweets this $50. only picking 10. so don’t cry if i don’t pick you. that’s how CONFIDENT i am that they’ll miss it. RT to spread the word. https://t.co/Nfv0myS8vY
-Char count : 182
-Syllabus count : 50 
-Lexicon count : 40 
-Sentence count : 2
-Gunning Fog Index: 12 
-Flesch Reading Ease: 76 
-Flesch-Kincaid Grade: 7
-Emoji counter: 0
-Emoji score: 0
-Sentiment score : 0.25 
-Subjectivity score : 0.9166666666666667 
----------
-Tweet id : 1099516325007740928 
-Post Time: 2019-02-24 03:48:14 
-Text: nobody on the Lakers care about hoopin anymore I swear..
-
-LeBron filming movies &amp; TV shows
-Kuzma a full-time IG model now
-Lonzo and Lance rapping in the studio
-Josh Hart dedicating his life to Fortnite
-Char count : 174
-Syllabus count : 47 
-Lexicon count : 36 
-Sentence count : 1
-Gunning Fog Index: 26 
-Flesch Reading Ease: 60 
-Flesch-Kincaid Grade: 13
-Emoji counter: 0
-Emoji score: 0
-Sentiment score : 0.0 
-Subjectivity score : 0.0 
----------
-Tweet id : 1099614919849332736 
-Post Time: 2019-02-24 10:20:01 
-Text: Les lakers me rendent fou
-Char count : 21
-Syllabus count : 7 
-Lexicon count : 5 
-Sentence count : 1
-Gunning Fog Index: 18 
-Flesch Reading Ease: 83 
-Flesch-Kincaid Grade: 2
-Emoji counter: 0
-Emoji score: 0
-Sentiment score : 0.0 
-Subjectivity score : 0.0 
----------
-Tweet id : 1099614882029277185 
-Post Time: 2019-02-24 10:19:52 
-Text: Was this a good or bad trade for the Lakers now? We know he snitched and all but....🧐😂😂 https://t.co/XU1s2PlsqT
-Char count : 93
-Syllabus count : 24 
-Lexicon count : 19 
-Sentence count : 2
-Gunning Fog Index: 8 
-Flesch Reading Ease: 87 
-Flesch-Kincaid Grade: 3
-Emoji counter: 3
-Emoji score: 0.14733333333333334
-Sentiment score : 5.551115123125783e-17 
-Subjectivity score : 0.6333333333333333 
----------
-Tweet id : 1099614837821206530 
-Post Time: 2019-02-24 10:19:41 
-Text: @NBA @Lakers Playoff Mode LeBron now because he'll be sitting at home when the playoffs start
-Char count : 78
-Syllabus count : 22 
+Tweet id : 1099629826661539840 
+Post Time: 2019-02-24 11:19:15 
+Text: @Lakers Now, You Know Why @MagicJohnson Wanted To Trade The Entire Team For A.D.
+#Lakers https://t.co/MpnUkYkxav
+Char count : 98
+Syllabus count : 25 
 Lexicon count : 16 
 Sentence count : 1
-Gunning Fog Index: 16 
-Flesch Reading Ease: 72 
+Gunning Fog Index: 18 
+Flesch Reading Ease: 55 
+Flesch-Kincaid Grade: 9
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.625 
+---------
+Tweet id : 1099592578767278081 
+Post Time: 2019-02-24 08:51:14 
+Text: Lakers let Julius Randle, Brook Lopez, Zubac, and Thomas Bryant walk and what’s left is the most washed big man rotation in the NBA
+Char count : 108
+Syllabus count : 28 
+Lexicon count : 24 
+Sentence count : 1
+Gunning Fog Index: 14 
+Flesch Reading Ease: 80 
 Flesch-Kincaid Grade: 7
 Emoji counter: 0
 Emoji score: 0
-Sentiment score : 0.0 
-Subjectivity score : 0.0 
+Sentiment score : 0.166667 
+Subjectivity score : 0.19999999999999998 
 ---------
-Tweet id : 1099516325007740928 
-Post Time: 2019-02-24 03:48:14 
-Text: nobody on the Lakers care about hoopin anymore I swear..
-
-LeBron filming movies &amp; TV shows
-Kuzma a full-time IG model now
-Lonzo and Lance rapping in the studio
-Josh Hart dedicating his life to Fortnite
-Char count : 174
-Syllabus count : 47 
-Lexicon count : 36 
-Sentence count : 1
-Gunning Fog Index: 26 
-Flesch Reading Ease: 60 
-Flesch-Kincaid Grade: 13
+Tweet id : 1099629772743815168 
+Post Time: 2019-02-24 11:19:02 
+Text: @Lakers @KingJames Great LBJ  but goodbye playoff!!!!! 
+Not even MJ  managed to do everything himself!!! .......... Where are the various Paul George Kawai Leonard a and Anthony Davis???????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Char count : 269
+Syllabus count : 42 
+Lexicon count : 27 
+Sentence count : 2
+Gunning Fog Index: 14 
+Flesch Reading Ease: 57 
+Flesch-Kincaid Grade: 8
 Emoji counter: 0
 Emoji score: 0
-Sentiment score : 0.0 
+Sentiment score : 0.500000 
+Subjectivity score : 0.625 
+---------
+Tweet id : 1099412608992464896 
+Post Time: 2019-02-23 20:56:06 
+Text: #RAPORGOTOTHELEAGUE from @2chainz sounds 🔥🔥🔥.
+A&amp;R'd by @KingJames 👑⛓
+Coming 3/1. https://t.co/F5uVhcly3H
+Char count : 99
+Syllabus count : 22 
+Lexicon count : 12 
+Sentence count : 2
+Gunning Fog Index: 12 
+Flesch Reading Ease: 48 
+Flesch-Kincaid Grade: 8
+Emoji counter: 5
+Emoji score: 0.2222
+Sentiment score : 0.000000 
 Subjectivity score : 0.0 
+---------
+Tweet id : 1098825762977677313 
+Post Time: 2019-02-22 06:04:11 
+Text: "It's been activated." #LakersWin
+
+@KingJames: 29 pts, 11 reb, 6 ast
+@B_Ingram13: 27 pts, 13 reb https://t.co/QbXITrg2hx
+Char count : 106
+Syllabus count : 27 
+Lexicon count : 17 
+Sentence count : 1
+Gunning Fog Index: 18 
+Flesch Reading Ease: 54 
+Flesch-Kincaid Grade: 9
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
+---------
+Tweet id : 1099333909198790657 
+Post Time: 2019-02-23 15:43:23 
+Text: I don’t give complements out easily or often...but you deserve it. Your leadership is needed. https://t.co/ReaI5pUThf
+Char count : 102
+Syllabus count : 29 
+Lexicon count : 16 
+Sentence count : 2
+Gunning Fog Index: 13 
+Flesch Reading Ease: 46 
+Flesch-Kincaid Grade: 8
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.433333 
+Subjectivity score : 0.8333333333333334 
+---------
+Tweet id : 1099629772743815168 
+Post Time: 2019-02-24 11:19:02 
+Text: @Lakers @KingJames Great LBJ  but goodbye playoff!!!!! 
+Not even MJ  managed to do everything himself!!! .......... Where are the various Paul George Kawai Leonard a and Anthony Davis???????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Char count : 269
+Syllabus count : 42 
+Lexicon count : 27 
+Sentence count : 2
+Gunning Fog Index: 14 
+Flesch Reading Ease: 57 
+Flesch-Kincaid Grade: 8
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.500000 
+Subjectivity score : 0.625 
+---------
+Tweet id : 1099032046683471874 
+Post Time: 2019-02-22 19:43:53 
+Text: @KingJames Hopefully R Kelly isn't on this soundtrack
+Char count : 46
+Syllabus count : 14 
+Lexicon count : 8 
+Sentence count : 1
+Gunning Fog Index: 23 
+Flesch Reading Ease: 46 
+Flesch-Kincaid Grade: 8
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
+---------
+Tweet id : 1099412608992464896 
+Post Time: 2019-02-23 20:56:06 
+Text: #RAPORGOTOTHELEAGUE from @2chainz sounds 🔥🔥🔥.
+A&amp;R'd by @KingJames 👑⛓
+Coming 3/1. https://t.co/F5uVhcly3H
+Char count : 99
+Syllabus count : 22 
+Lexicon count : 12 
+Sentence count : 2
+Gunning Fog Index: 12 
+Flesch Reading Ease: 48 
+Flesch-Kincaid Grade: 8
+Emoji counter: 5
+Emoji score: 0.2222
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
+---------
+Tweet id : 1099629662714572801 
+Post Time: 2019-02-24 11:18:36 
+Text: @LakersSBN LAL with the ball. Beside turnover 🔪🏀us @🚀's 🎮 KCP, Rondo, LBJ, McGee, Ingram startd Why the change 🌒?Lineup changes constantly will break down 🏀. Gotta stick wit' Offesive planplease...@Lakers@Shaqtin
+#TellMeWhatsGoin'On🏀LAL@NBAonTNT@MagicJohnson@KingJames@LakersSBN@espn https://t.co/4uhoWxi30d
+Char count : 276
+Syllabus count : 61 
+Lexicon count : 33 
+Sentence count : 3
+Gunning Fog Index: 22 
+Flesch Reading Ease: 43 
+Flesch-Kincaid Grade: 9
+Emoji counter: 7
+Emoji score: 0.33
+Sentiment score : -0.077778 
+Subjectivity score : 0.3111111111111111 
+---------
+Tweet id : 1098836509837320192 
+Post Time: 2019-02-22 06:46:53 
+Text: 🏀 LAKERS WIN! 🏀
+
+Playoff LeBron was activated in tonight’s match-up against the @HoustonRockets as the @Lakers came back from a 19-point deficit!
+
+@KingJames : 29 PTS | 11 REB | 6 AST
+@B_Ingram13 : 27 PTS | 13 REB
+
+Score: 111-106
+
+#lakers #rockets #lebronjames #like #follow https://t.co/OfxrqrmQbx
+Char count : 256
+Syllabus count : 68 
+Lexicon count : 43 
+Sentence count : 1
+Gunning Fog Index: 26 
+Flesch Reading Ease: 27 
+Flesch-Kincaid Grade: 20
+Emoji counter: 2
+Emoji score: 0.254
+Sentiment score : 0.500000 
+Subjectivity score : 0.2 
+---------
+Tweet id : 1099629378969976832 
+Post Time: 2019-02-24 11:17:28 
+Text: Dear US sports presenters. This guy is the current sporting 🐐. Not @KingJames not even #TomBrady. It is a big world out there people. And I love Brady. https://t.co/Ci6eNUtaA0
+Char count : 147
+Syllabus count : 39 
+Lexicon count : 29 
+Sentence count : 5
+Gunning Fog Index: 9 
+Flesch Reading Ease: 90 
+Flesch-Kincaid Grade: 2
+Emoji counter: 1
+Emoji score: 0.417
+Sentiment score : 0.166667 
+Subjectivity score : 0.3666666666666667 
+---------
+Tweet id : 1099628888722935808 
+Post Time: 2019-02-24 11:15:31 
+Text: I have more respect for @KingJames.Now that I’ve seen him play live.The things some of the people in the stands were saying was just harsh especially the man that sat behind me.We’re literally 7 rows from the floor and this man screamed Bullshit at lebron the entire time
+Char count : 224
+Syllabus count : 63 
+Lexicon count : 48 
+Sentence count : 1
+Gunning Fog Index: 25 
+Flesch Reading Ease: 48 
+Flesch-Kincaid Grade: 18
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : -0.020000 
+Subjectivity score : 0.7050000000000001 
+---------
+Tweet id : 1099516580516360193 
+Post Time: 2019-02-24 03:49:15 
+Text: .@KingJames addresses the media following tonight's 128-115 #Lakers loss to New Orleans. https://t.co/q54ZRFinJv
+Char count : 100
+Syllabus count : 25 
+Lexicon count : 13 
+Sentence count : 1
+Gunning Fog Index: 23 
+Flesch Reading Ease: 32 
+Flesch-Kincaid Grade: 11
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.068182 
+Subjectivity score : 0.2772727272727273 
+---------
+Tweet id : 1099516580516360193 
+Post Time: 2019-02-24 03:49:15 
+Text: .@KingJames addresses the media following tonight's 128-115 #Lakers loss to New Orleans. https://t.co/q54ZRFinJv
+Char count : 100
+Syllabus count : 25 
+Lexicon count : 13 
+Sentence count : 1
+Gunning Fog Index: 23 
+Flesch Reading Ease: 32 
+Flesch-Kincaid Grade: 11
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.068182 
+Subjectivity score : 0.2772727272727273 
+---------
+Tweet id : 1098958148730318848 
+Post Time: 2019-02-22 14:50:14 
+Text: 👑 @KingJames' 29 PTS, 11 REB, 6 AST sparks the @Lakers 19-point comeback win vs. Houston! #LakeShow https://t.co/61lnVtt4jl
+Char count : 106
+Syllabus count : 27 
+Lexicon count : 18 
+Sentence count : 2
+Gunning Fog Index: 14 
+Flesch Reading Ease: 70 
+Flesch-Kincaid Grade: 5
+Emoji counter: 1
+Emoji score: 0.694
+Sentiment score : 1.000000 
+Subjectivity score : 0.4 
+---------
+Tweet id : 1099627544108781568 
+Post Time: 2019-02-24 11:10:11 
+Text: @ELISAMIA_BYNUM @KingJames We might not see the playoffs though
+Char count : 55
+Syllabus count : 12 
+Lexicon count : 9 
+Sentence count : 1
+Gunning Fog Index: 16 
+Flesch Reading Ease: 87 
+Flesch-Kincaid Grade: 3
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
+---------
+Tweet id : 1099495319539277825 
+Post Time: 2019-02-24 02:24:46 
+Text: playoff mode activated? @KingJames https://t.co/ECDmK9IeiT
+Char count : 54
+Syllabus count : 12 
+Lexicon count : 5 
+Sentence count : 1
+Gunning Fog Index: 26 
+Flesch Reading Ease: -1 
+Flesch-Kincaid Grade: 14
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.0 
+---------
+Tweet id : 1099627205146099712 
+Post Time: 2019-02-24 11:08:50 
+Text: A Big Group Hug To The Champion, @kobebryant..=-)..The Champion, @StephenCurry30..=-)..The Champion, @KDTrey5..=-)..The Champion, Kevin Durant..=-)..And The Champion, @KingJames..=-)..The Champion, Lebron James..=-)..As I Thought About you All..=-)..
+Char count : 225
+Syllabus count : 48 
+Lexicon count : 26 
+Sentence count : 1
+Gunning Fog Index: 18 
+Flesch Reading Ease: 28 
+Flesch-Kincaid Grade: 15
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.000000 
+Subjectivity score : 0.1 
+---------
+Tweet id : 1099542918497480704 
+Post Time: 2019-02-24 05:33:54 
+Text: .@KingJames posts his 5th straight game with a double-double or triple-double en route to being tonight's top #NBAFantasy performer for the @Lakers!
+
+With his 12 assists tonight, LeBron has tied Andre Miller for 10th all-time on the #NBA list! https://t.co/YWo1BO2XvI
+Char count : 229
+Syllabus count : 58 
+Lexicon count : 40 
+Sentence count : 1
+Gunning Fog Index: 23 
+Flesch Reading Ease: 39 
+Flesch-Kincaid Grade: 17
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.193750 
+Subjectivity score : 0.43333333333333335 
+---------
+Tweet id : 1099333909198790657 
+Post Time: 2019-02-23 15:43:23 
+Text: I don’t give complements out easily or often...but you deserve it. Your leadership is needed. https://t.co/ReaI5pUThf
+Char count : 102
+Syllabus count : 29 
+Lexicon count : 16 
+Sentence count : 2
+Gunning Fog Index: 13 
+Flesch Reading Ease: 46 
+Flesch-Kincaid Grade: 8
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.433333 
+Subjectivity score : 0.8333333333333334 
+---------
+Tweet id : 1099333909198790657 
+Post Time: 2019-02-23 15:43:23 
+Text: I don’t give complements out easily or often...but you deserve it. Your leadership is needed. https://t.co/ReaI5pUThf
+Char count : 102
+Syllabus count : 29 
+Lexicon count : 16 
+Sentence count : 2
+Gunning Fog Index: 13 
+Flesch Reading Ease: 46 
+Flesch-Kincaid Grade: 8
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.433333 
+Subjectivity score : 0.8333333333333334 
+---------
+Tweet id : 1099516580516360193 
+Post Time: 2019-02-24 03:49:15 
+Text: .@KingJames addresses the media following tonight's 128-115 #Lakers loss to New Orleans. https://t.co/q54ZRFinJv
+Char count : 100
+Syllabus count : 25 
+Lexicon count : 13 
+Sentence count : 1
+Gunning Fog Index: 23 
+Flesch Reading Ease: 32 
+Flesch-Kincaid Grade: 11
+Emoji counter: 0
+Emoji score: 0
+Sentiment score : 0.068182 
+Subjectivity score : 0.2772727272727273 
 ---------

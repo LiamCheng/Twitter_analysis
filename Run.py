@@ -7,10 +7,10 @@ from getinfo import info
 # Finding recently tweet within the seed word in seedword.txt and performing a quick text analysis.
 
 ####### Access Information (Tweepy Authenticate) ###############
-consumer_key = 'TFeHlE1xHikM3DenxPk5oIscq'
-consumer_secret = '1k5RjfYQXIrCajmNKjDDaNTbdvmRLJWOJEsvh5MBGZYT6UBDLV'
-access_key = '2153338314-i3QyDm3M0DAArpvS6Vq2MQQHbjvfu1tcmAAlYzV'
-access_secret = 'qoT0nT7pZVzD8ZXOl0XlSMdUOwMgxvvQ6RoHLenAEz0oe'
+consumer_key = 'your_consumer_key'
+consumer_secret = 'your_consumer_secret'
+access_key = 'your_access_key'
+access_secret = 'your_access_secret'
 auth = tweepy.auth.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_key, access_secret)
 api = tweepy.API(auth, wait_on_rate_limit=True)
